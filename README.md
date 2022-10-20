@@ -23,3 +23,4 @@
 ![Карточка с шутками](https://readme-jokes.vercel.app/api )
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 https://github.com/anuraghazra/github-readme-stats.git
+freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
